@@ -1,7 +1,7 @@
 require('./owner.js');
 const fs = require("fs")
 
-global.ownerNumber = [`${global.owner}`,'no2','no3'] // no owner yang dapat mengakses all fitur
+global.ownerNumber = [`${global.owner}`,'254706519089','no3'] // no owner yang dapat mengakses all fitur
 
 //watermark 
 global.packname = `${botname}` // bebas ubah ${botname} langsung hapus jangan isi kaya gini global.packname =  `${clairity}` itu bakal error langsung aja global.packname = `clairity`
